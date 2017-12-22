@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: DaemonSet
 metadata:
-  name: nginx-dm
+  name: nginx-dm-b
   namespace: default
   labels:
     app: nginx-dm
